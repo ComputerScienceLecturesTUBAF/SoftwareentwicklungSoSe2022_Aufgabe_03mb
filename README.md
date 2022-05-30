@@ -1,4 +1,4 @@
-# Softwareentwicklung SoSe2021 - Aufgabe 03 MB
+# Softwareentwicklung SoSe2022 - Aufgabe 03 MB
 
 Anhand einer Fingerübung sollen Sie die gemeinsame Arbeit in einem Projekt üben. Dazu finden Sie im Repository eine Datei `CSharpBasics.txt`. Überführen Sie diese in ein neues Markdown-Dokument `CSharpBasics.md`, das mit den entsprechenden Syntaxelementen die notwendige Strukturierung und Formatierung erfährt. 
 
@@ -22,7 +22,7 @@ Dabei nehmen Sie in Ihrem Team eine von zwei Rollen ein:
 
 ## Bearbeitungszeit
 
-Einführung in SWE: 14.06.-25.06.2021 (KGB, BENG, VTC, MB)
+Einführung in SWE: 06.06.-17.06.2022 (KGB, BENG, VTC, MB)
 
 Das folgende Sequenzdiagramm illustiert die in der Vorlesung besprochene Bearbeitungssequenz eines Projektes. 
 
